@@ -22,6 +22,7 @@ This is a software then we can sell this software to different companies and off
 Application Use :
 These are following Step to check our Application :
 
-There is an app.apk file by the help of this file you can just simply intsall it.
-Use username "admin" and password "password" for login
+These is Bulid Folder in our repo.
+In this Bulid these is app.apk file by the help of this file you can just simply intsall it.
+Use Code SK720 for login
 After You will get a proper idea of our application
